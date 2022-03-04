@@ -1,7 +1,7 @@
 CardImageURLs:
-Alpha/hacker_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sets/setimages/Alpha/hacker_cat.jpg
-Alpha/hover_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sets/setimages/Alpha/hover_cat.jpg
-Alpha/kaiser_soze.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sets/setimages/Alpha/kaiser_soze.jpg
-Alpha/tough_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sets/setimages/Alpha/tough_cat.jpg
-Alpha/token_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sets/setimages/Alpha/token_cat.jpg
+Alpha/hacker_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sets/setimages/Alpha/hacker_cat.jpg
+Alpha/hover_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sets/setimages/Alpha/hover_cat.jpg
+Alpha/kaiser_soze.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sets/setimages/Alpha/kaiser_soze.jpg
+Alpha/tough_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sets/setimages/Alpha/tough_cat.jpg
+Alpha/token_cat.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sets/setimages/Alpha/token_cat.jpg
 

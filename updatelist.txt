@@ -1,22 +1,22 @@
 lackey-example	03-04-22
-plugins/lackey-example/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/plugininfo.txt	447757
-plugins/lackey-example/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/pluginpreferences.txt	311841
-plugins/lackey-example/version.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/version.txt	36206
-plugins/lackey-example/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/packs/packdefinitions1.xml	177503
-plugins/lackey-example/packs/samplebooster.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/packs/samplebooster.jpg	64009
-plugins/lackey-example/sets/carddata.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sets/carddata.txt	58233
-plugins/lackey-example/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/bot.jpg	31432
-plugins/lackey-example/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/spawned.jpg	39868
-plugins/lackey-example/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/cardback.jpg	-53470
-plugins/lackey-example/sounds/meow.wav	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sounds/meow.wav	-333966
-plugins/lackey-example/sounds/meow2.wav	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/sounds/meow2.wav	-287961
-plugins/lackey-example/images/Phase1.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/images/Phase1.jpg	-5071
-plugins/lackey-example/images/Phase2.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/images/Phase2.jpg	-6731
-plugins/lackey-example/images/Phase3.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/images/Phase3.jpg	-8346
-plugins/lackey-example/images/Phase4.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/images/Phase4.jpg	-13880
-plugins/lackey-example/images/Phase5.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/images/Phase5.jpg	3107
-plugins/lackey-example/images/Phase6.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/images/Phase6.jpg	9170
-plugins/lackey-example/formats.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/formats.txt	19676
-plugins/lackey-example/CardImageUrls1.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/CardImageUrls1.txt	64505
+plugins/lackey-example/plugininfo.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/plugininfo.txt	447757
+plugins/lackey-example/pluginpreferences.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/pluginpreferences.txt	311841
+plugins/lackey-example/version.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/version.txt	29870
+plugins/lackey-example/packs/packdefinitions1.xml	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/packs/packdefinitions1.xml	177503
+plugins/lackey-example/packs/samplebooster.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/packs/samplebooster.jpg	64009
+plugins/lackey-example/sets/carddata.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sets/carddata.txt	58233
+plugins/lackey-example/bot.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/bot.jpg	31432
+plugins/lackey-example/spawned.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/spawned.jpg	39868
+plugins/lackey-example/cardback.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/cardback.jpg	-53470
+plugins/lackey-example/sounds/meow.wav	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sounds/meow.wav	-333966
+plugins/lackey-example/sounds/meow2.wav	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/sounds/meow2.wav	-287961
+plugins/lackey-example/images/Phase1.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/images/Phase1.jpg	-5071
+plugins/lackey-example/images/Phase2.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/images/Phase2.jpg	-6731
+plugins/lackey-example/images/Phase3.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/images/Phase3.jpg	-8346
+plugins/lackey-example/images/Phase4.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/images/Phase4.jpg	-13880
+plugins/lackey-example/images/Phase5.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/images/Phase5.jpg	3107
+plugins/lackey-example/images/Phase6.jpg	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/images/Phase6.jpg	9170
+plugins/lackey-example/formats.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/formats.txt	19676
+plugins/lackey-example/CardImageUrls1.txt	https://raw.githubusercontent.com/merlinofchaos/lackey-example/main/CardImageUrls1.txt	61640
 CardURLFiles:
 CardImageUrls1.txt
