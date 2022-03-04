@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>220304</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/merlinofchaos/lackey-build-example/main/updatelist.txt</updateurl>
+<message>Initial generation of updatelist.txt, version.txt and CardImageUrls.txt</message>
+</version>
